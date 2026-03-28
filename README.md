@@ -1,5 +1,3 @@
-# TRS4 Sims
-
 Estructura reorganizada del proyecto:
 
 - `probando.py`: lanzador principal.
