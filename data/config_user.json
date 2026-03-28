@@ -1,0 +1,9 @@
+{
+    "modo_oscuro": true,
+    "sonido_al_finalizar": false,
+    "siempre_visible": false,
+    "popup_al_finalizar": false,
+    "autoscan_duplicados": true,
+    "download_root_path": "./downloads",
+    "categorizacion_automatica": true
+}
